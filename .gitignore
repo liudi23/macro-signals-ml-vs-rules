@@ -1,0 +1,15 @@
+# Data: download via kagglehub (see README); do not commit JPMaQS files
+data/
+*.csv.gz
+*.pkl
+!sim_results.csv
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
