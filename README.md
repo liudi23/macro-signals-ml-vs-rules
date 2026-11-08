@@ -33,7 +33,7 @@ performance, not headline Sharpe.
 
 ## The contenders
 
-**The fixed rule in plain English** ("equal-weight average of theory-signed z-scores"):
+**The fixed rule: an equal-weight average of theory-signed z-scores.** It is built in three steps:
 
 1. **Z-score:** express each indicator as "how unusual is it now?", in units of its typical deviation, using only
    data known at the time. +2 is unusually high; 0 is normal.
